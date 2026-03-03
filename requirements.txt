@@ -1,0 +1,10 @@
+# Lab 4 CNN Colorization - Requirements
+torch>=2.0.0
+torchvision>=0.15.0
+accelerate>=0.20.0
+datasets>=2.0.0
+diffusers>=0.15.0
+matplotlib>=3.5.0
+pillow>=9.0.0
+scikit-image>=0.19.0
+tqdm>=4.65.0
