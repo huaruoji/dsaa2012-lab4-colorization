@@ -189,9 +189,11 @@ lab4/
 
 1. Hengrui WU. "Lab 4 Open Discussion: Black-and-White Image Colorization." DSAA2012, 2026.
 2. Yehua HUANG. "Lab 4 Open Discussion: Black-and-White Image Colorization." DSAA2012, 2026.
-3. Anwar et al. "Image colorization: A survey and dataset." 2024.
-4. "MultiColor: Image Colorization by Learning from Multiple Color Spaces." ACM MM 2024.
-5. "Colorful Image Colorization." ECCV 2016.
+3. Saeed Anwar et al. "Image colorization: A survey and dataset." *Information Fusion*, Vol. 114, Oct 2024. DOI: [10.1016/j.inffus.2024.102720](https://doi.org/10.1016/j.inffus.2024.102720)
+4. Xiangcheng Du et al. "MultiColor: Image Colorization by Learning from Multiple Color Spaces." *ACM MM '24*, Oct 28, 2024. DOI: [10.1145/3664647.3680726](https://doi.org/10.1145/3664647.3680726)
+5. Richard Zhang, Phillip Isola, Alexei A. Efros. "Colorful Image Colorization." *ECCV 2016*. arXiv: [1603.08511](https://arxiv.org/abs/1603.08511)
+
+**Verification:** All references verified via Brave Search on Mar 4, 2026. ✅
 
 ---
 
